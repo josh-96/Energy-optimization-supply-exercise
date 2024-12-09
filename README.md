@@ -7,7 +7,7 @@ This repository contains a Jupyter Notebook that explores the use of machine lea
 
 The project focuses on comparing the performance of various methods for forecasting energy demand, including:
 
-Baseline (LSTM Alone): A recurrent neural network trained to predict energy demand.
+Baseline (LSTM Alone): A simple 5-layered recurrent neural network trained to predict energy demand.
 
 Bayesian-Adjusted LSTM: Combines LSTM predictions with Bayesian methods to better account for uncertainty and calibrate forecasts.
 
