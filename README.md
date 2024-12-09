@@ -24,7 +24,7 @@ The notebook also compares these methods using metrics like forecasted capacity 
 
 ## Repository Contents
 
-Notebook: The primary notebook (optimization_energy_production.ipynb) containing all code, visualizations, and analyses.
+Notebook: The primary notebook (Optimization_of_Energy_Supply.ipynb) containing all code, visualizations, and analyses.
 
 Graphs and Visualizations: Includes bar plots comparing forecasted capacities and costs across methods.
 
@@ -88,7 +88,7 @@ cd forecasting-optimization-energy
 
 2. Open the Jupyter Notebook:
 
-jupyter notebook optimization_energy_supply.ipynb
+jupyter notebook Optimization_of_Energy_Supply.ipynb
 
 
 3. Run all cells in the notebook to reproduce the results and visualizations.
